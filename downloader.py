@@ -106,6 +106,5 @@ def main():
         print('Вы завершили выполнение программы.')
 
 if __name__ == '__main__':
-    print(APP_MESSAGE)
     print(__version__ + "\n")
     main()
