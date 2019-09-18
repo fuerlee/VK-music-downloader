@@ -9,14 +9,12 @@ from time import time
 
 __version__ = 'VK Music Downloader v1.0'
 
-APP_MESSAGE = '''
-   __                 _           
+APP_MESSAGE = '''   __                 _           
   / _|_   _  ___ _ __| | ___  ___ 
  | |_| | | |/ _ \ '__| |/ _ \/ _ \
  |  _| |_| |  __/ |  | |  __/  __/
  |_|  \__,_|\___|_|  |_|\___|\___|
-                                  
-  '''
+                                  '''
 
 vk_file = "vk_config.v2.json"
 REQUEST_STATUS_CODE = 200 
